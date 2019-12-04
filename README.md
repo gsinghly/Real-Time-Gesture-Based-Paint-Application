@@ -2,9 +2,9 @@
 
 <h2>Setup : </h2>
 <ul>
-    <li>sudo apt-get update</li>
-    <li>sudo apt-get install python2.7</li>
-    <li>sudo apt install python-opencv</li>
+    <li>>sudo apt-get update</li>
+    <li>>sudo apt-get install python2.7</li>
+    <li>>sudo apt install python-opencv</li>
 </ul>
 
 <h2>Features : </h2>
