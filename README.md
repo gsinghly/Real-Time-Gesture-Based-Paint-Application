@@ -1,10 +1,11 @@
 # Real-Time-Gesture-Based-Paint-Application-(Mini Project)
 
 <h2>Setup : </h2>
-
->sudo apt-get update <br>
->sudo apt-get install python2.7<br>
->sudo apt install python-opencv<br>
+<ul>
+    <li>sudo apt-get update</li>
+    <li>sudo apt-get install python2.7</li>
+    <li>sudo apt install python-opencv</li>
+</ul>
 
 <h2>Features : </h2>
 <ol>
