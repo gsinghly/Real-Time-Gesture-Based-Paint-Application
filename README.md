@@ -1,5 +1,11 @@
 # Real-Time-Gesture-Based-Paint-Application-(Mini Project)
 
+<h2>Setup : </h2>
+
+>sudo apt-get update <br>
+>sudo apt-get install python2.7<br>
+>sudo apt install python-opencv<br>
+
 <h2>Features : </h2>
 <ol>
     <li>Color Calibration for selecting color for the pointer, keyboard button 'c'</l1>
