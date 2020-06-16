@@ -20,3 +20,10 @@
     <li>Clear all option to clear the screen</l1>
     <li>Press 'q' to quit</li>
 </ol>
+
+</p>
+<h2>Team Members:-</h2><br/>
+1)<a href="https://github.com/ceejay">Chetan Joshi(ceejay)</a><br/>
+2)<a href="https://github.com/masterchef2209">Hidayat Khan(masterchef2209)</a><br/>
+3)<a href="https://github.com/saintpopo">Gaurav Singh(saintpopo)</a><br/>
+
