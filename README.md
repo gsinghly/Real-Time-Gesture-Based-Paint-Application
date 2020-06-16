@@ -1,5 +1,14 @@
 # Real-Time-Gesture-Based-Paint-Application-(Mini Project)
 
+<br/>
+<p>
+    <img src="/resources/img_1.png" width="800" height="300" />
+    <img src="/resources/img_2.png" width="800" height="300" />
+    <img src="/resources/img_3.png" width="800" height="300" />
+    <img src="/resources/img_4.png" width="800" height="300" />
+    <img src="/resources/img_5.png" width="800" height="300" />
+</p>
+
 <h2>Setup : </h2>
 <ul>
     <li>sudo apt-get update</li>
