@@ -7,6 +7,10 @@
     <img src="/resources/img_3.png" width="800" height="300" />
     <img src="/resources/img_4.png" width="800" height="300" />
     <img src="/resources/img_5.png" width="800" height="300" />
+    <img src="/resources/img_6.png" width="800" height="300" />
+    <img src="/resources/img_7.png" width="800" height="300" />
+    <img src="/resources/img_8.png" width="800" height="300" />
+    <img src="/resources/img_9.png" width="800" height="300" />
 </p>
 
 <h2>Setup : </h2>
