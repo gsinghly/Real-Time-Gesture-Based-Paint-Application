@@ -2,6 +2,7 @@
 
 <br/>
 <p>
+    <img src="/resources/354qYM.png" width="800" height="300" />
     <img src="/resources/img_9.png" width="800" height="300" />
     <img src="/resources/img_1.png" width="800" height="300" />
     <img src="/resources/img_2.png" width="800" height="300" />
@@ -11,7 +12,6 @@
     <img src="/resources/img_6.png" width="800" height="300" />
     <img src="/resources/img_7.png" width="800" height="300" />
     <img src="/resources/img_8.png" width="800" height="300" />
-    <img src="/resources/354qYM.png" width="800" height="300" />
 </p>
 
 
